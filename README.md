@@ -12,7 +12,7 @@ Among other things, the mod makes the game's economy really interesting, prevent
 2. Download the mod from the link below.
 3. Extract the contents of the archive (Infamy Rebalance folder) to the mods folder located in the root folder of the game.
 
-**[<ins>Download mod</ins>]()**
+**[<ins>Download mod</ins>](https://github.com/SparkVRX/PD2-Infamy-Rebalance/releases/download/v1.0/Infamy.Rebalance.rar)**
 
 ## Experience
 The Infamy leveling system has been changed to allow you to level up while having fun.
@@ -67,3 +67,4 @@ When you receive the reward, you will automatically receive 5 Infamy levels.
 You have 3 000 000 of 6 000 000 experience in your Infamy pool. You have 8 000 000 experience as a reward for Crime Spree.  
 
 When you receive the reward, nothing will happen, only your Infamy pull will be filled - because the experience is not enough for at least 2 levels. There is no point in making an automatic increase only by 1 level, since you yourself can increase it in the Infamy menu.
+
